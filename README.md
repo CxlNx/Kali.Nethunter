@@ -18,7 +18,7 @@ $./install-nethunter-termux
 
 ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●
 
-#PASO 2._SE TE ABRIRA KALI NETHUNTER
+# PASO 2._SE TE ABRIRA KALI NETHUNTER
 
 [![Whats-App-Image-2024-06-28-at-5-08-37-PM.jpg](https://i.postimg.cc/vHMMbxXf/Whats-App-Image-2024-06-28-at-5-08-37-PM.jpg)](https://postimg.cc/JtTSQnfz)
 
